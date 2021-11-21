@@ -17,4 +17,4 @@ My score should be a 30 for the following reasons:
 1. Extra credit 6: Having my bot reply to the most highly upvoted comments (2 points)
 1. Extra credit ?: (2 points)
 
-`18+2+2x5 = **30**`
+18+2+2x5 = **30**
