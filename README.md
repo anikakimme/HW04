@@ -30,6 +30,58 @@ valid_comments= 575
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
+```
+Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=thirdcs40bot
+len(comments)= 855
+len(top_level_comments)= 68
+len(replies)= 787
+len(valid_top_level_comments)= 58
+len(not_self_replies)= 787
+len(valid_replies)= 557
+========================================
+valid_comments= 615
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
+```
+```
+Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=fourthcsbot
+len(comments)= 774
+len(top_level_comments)= 62
+len(replies)= 712
+len(valid_top_level_comments)= 54
+len(not_self_replies)= 712
+len(valid_replies)= 478
+========================================
+valid_comments= 532
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
+```
+```
+Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=fourthcsbot
+len(comments)= 774
+len(top_level_comments)= 62
+len(replies)= 712
+len(valid_top_level_comments)= 54
+len(not_self_replies)= 712
+len(valid_replies)= 478
+========================================
+valid_comments= 532
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
+```
+```
+Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=fifthcsbot
+len(comments)= 932
+len(top_level_comments)= 61
+len(replies)= 871
+len(valid_top_level_comments)= 51
+len(not_self_replies)= 871
+len(valid_replies)= 614
+========================================
+valid_comments= 665
+========================================
+```
+NOTE: the number valid_comments is what will be used to determine your extra credit
 1. Extra credit 6: Having my bot reply to the most highly upvoted comments (2 points)
     1. See bot.py file
 1. Extra credit ?: (2 points)
