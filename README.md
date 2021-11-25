@@ -19,8 +19,7 @@ valid_comments= 602
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
-
-### Score
+## Score
 My score should be a 30 for the following reasons:
 1. Completing each task in the `bot.py` file (18 points)
 1. Creating this github repository (2 points)
