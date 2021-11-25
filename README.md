@@ -1,11 +1,11 @@
 # HW 04: Reddit Bot
 
-### Politician
-My bot is supporting **Bernie Sanders**
+## Politician
+My bot is supporting **Bernie Sanders**.
 
-### Favorite Thread
+## Favorite Thread
 
-### Output
+## Output
 ```
 Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=csci040-bot
 len(comments)= 854
@@ -87,5 +87,3 @@ NOTE: the number valid_comments is what will be used to determine your extra cre
 1. Extra credit ?: (2 points)
 
 18+2+2x5 = **30**
-
-
