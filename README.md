@@ -6,6 +6,19 @@ My bot is supporting **Bernie Sanders**
 ### Favorite Thread
 
 ### Output
+```
+Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=csci040-bot
+len(comments)= 854
+len(top_level_comments)= 65
+len(replies)= 789
+len(valid_top_level_comments)= 51
+len(not_self_replies)= 789
+len(valid_replies)= 551
+========================================
+valid_comments= 602
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
+```
 
 ### Score
 My score should be a 30 for the following reasons:
@@ -40,19 +53,6 @@ len(not_self_replies)= 787
 len(valid_replies)= 557
 ========================================
 valid_comments= 615
-========================================
-NOTE: the number valid_comments is what will be used to determine your extra credit
-```
-```
-Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=fourthcsbot
-len(comments)= 774
-len(top_level_comments)= 62
-len(replies)= 712
-len(valid_top_level_comments)= 54
-len(not_self_replies)= 712
-len(valid_replies)= 478
-========================================
-valid_comments= 532
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
