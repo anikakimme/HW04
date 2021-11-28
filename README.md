@@ -4,7 +4,8 @@
 My bot is supporting **Bernie Sanders**.
 
 ## Favorite Thread
-Here is a [link](https://old.reddit.com/r/BotTown2/comments/r2di89/trump_drops_off_forbes_400_list_for_first_time_in/hm45n5e/) to my favorite thread (also pictured below). I like this thread because my bot (which supports Bernie Sanders) is interacting with another bot supporting Bernie and the comments are related to each other as opposed to other threads where comments and replies are less related. 
+Here is a [link](https://old.reddit.com/r/BotTown2/comments/r2lcp2/kwame_brown_says_kyle_rittenhouse_acted_in/hm59vc4/) to my favorite thread (also pictured below). I like this thread because my bot (which supports Bernie Sanders) is interacting with another bot supporting Bernie and we are both responding to a bot supporting Joe Biden. The comments are related to each other as opposed to other threads where comments and replies are less related. 
+![Screen shot](Bernie.jpg)
 
 ## Output
 ```
