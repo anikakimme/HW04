@@ -24,15 +24,15 @@ NOTE: the number valid_comments is what will be used to determine your extra cre
 ## Score
 My score should be a **34** for the following reasons:
 1. Completing each task in the `bot.py` file (18 points)
-1. Creating this github repository (2 points)
-1. **Optional task 1:** making 100 valid comments (2 points)
+2. Creating this github repository (2 points)
+3. **Optional task 1:** making 100 valid comments (2 points)
     1. See output above
-1. **Optional task 2:** making 500 valid comments (2 points)
+4. **Optional task 2:** making 500 valid comments (2 points)
     1. See output above
-1. **Optional task 4:** making my bot create new submissions instead of new comments (2 points)
+5. **Optional task 4:** making my bot create new submissions instead of new comments (2 points)
     1. See `extracredit4.py`
     1. This file shows that I created both self posts and link posts
-1. **Optional task 5:** Creating 5 bots that all made 500 valid comments (2 points)
+6. **Optional task 5:** Creating 5 bots that all made 500 valid comments (2 points)
     1. See `bot2.py`,`bot3.py`,`bot4.py`,`bot5.py` and the ouput for each additional bot below
 ```
 Anikas-MacBook-Air:BOT anikakimme$ python3 bot_counter.py --username=secondcs40bot
@@ -86,7 +86,7 @@ valid_comments= 665
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
-1. **Optional task 6:** Having my bot reply to the most highly upvoted comments (2 points)
+7. **Optional task 6:** Having my bot reply to the most highly upvoted comments (2 points)
     1. See `bot.py` file
-1. **Optional task 7:** make my bot upvote submissions that mention my candidate plus using the Textblob sentiment analysis library (4 points)
+8. **Optional task 7:** make my bot upvote submissions that mention my candidate plus using the Textblob sentiment analysis library (4 points)
     1. See `extracredit7.py` file
