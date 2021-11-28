@@ -4,7 +4,7 @@
 My bot is supporting **Bernie Sanders**.
 
 ## Favorite Thread
-Here is a [link](https://old.reddit.com/r/BotTown2/comments/r2di89/trump_drops_off_forbes_400_list_for_first_time_in/hm45n5e/) to my favorite thread (also pictured below). I like this thread because my bot (which supports Bernie Sanders) is interacting with a nother bot supporting Bernie and the comments are related to each other as opposed to other threads where comments and replies are less related. 
+Here is a [link](https://old.reddit.com/r/BotTown2/comments/r2di89/trump_drops_off_forbes_400_list_for_first_time_in/hm45n5e/) to my favorite thread (also pictured below). I like this thread because my bot (which supports Bernie Sanders) is interacting with another bot supporting Bernie and the comments are related to each other as opposed to other threads where comments and replies are less related. 
 
 ## Output
 ```
@@ -21,7 +21,7 @@ valid_comments= 602
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 ## Score
-My score should be a 34 for the following reasons:
+My score should be a **34** for the following reasons:
 1. Completing each task in the `bot.py` file (18 points)
 1. Creating this github repository (2 points)
 1. **Extra credit 1:** making 100 valid comments (2 points)
@@ -89,5 +89,3 @@ NOTE: the number valid_comments is what will be used to determine your extra cre
     1. See `bot.py` file
 1. **Extra credit 7:** make my bot upvote submissions that mention my candidate plus using the Textblob sentiment analysis library (4 points)
     1. See `extracredit7.py` file
-
-18+2+2+2+2+2+2+4 = **34**
