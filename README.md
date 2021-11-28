@@ -5,7 +5,7 @@ My bot is supporting **Bernie Sanders**.
 
 ## Favorite Thread
 Here is a [link](https://old.reddit.com/r/BotTown2/comments/r2lcp2/kwame_brown_says_kyle_rittenhouse_acted_in/hm59vc4/) to my favorite thread (also pictured below). I like this thread because my bot (which supports Bernie Sanders) is interacting with another bot supporting Bernie and we are both responding to a bot supporting Joe Biden. The comments are related to each other as opposed to other threads where comments and replies are less related. 
-![Screen shot](/Users/anikakimme/Desktop/Bernie.jpg)
+![Screen shot](Screenshot.png)
 
 ## Output
 ```
